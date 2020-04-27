@@ -1,0 +1,1456 @@
+1
+00:00:03,650 --> 00:00:04,844
+Oi, pessoal.
+
+2
+00:00:05,085 --> 00:00:06,575
+Qual é o problema?
+
+3
+00:00:06,820 --> 00:00:09,789
+É uma situação super chata!
+
+4
+00:00:10,023 --> 00:00:12,491
+Um cliente da clínica
+me deu três ingressos...
+
+5
+00:00:12,693 --> 00:00:15,355
+para uma exibição
+no museu Morgan-Chase.
+
+6
+00:00:15,662 --> 00:00:18,222
+Agora tem que dormir com ele.
+
+7
+00:00:18,932 --> 00:00:22,993
+Não, é que ele me deu
+três ingressos e somos em seis.
+
+8
+00:00:23,236 --> 00:00:25,397
+- Pode ficar com o meu.
+- O meu também.
+
+9
+00:00:26,373 --> 00:00:27,738
+Que generosidade.
+
+10
+00:00:27,941 --> 00:00:30,171
+Ross também é generoso.
+
+11
+00:00:31,378 --> 00:00:33,346
+Vão só as mulheres.
+
+12
+00:00:33,547 --> 00:00:34,980
+- Que bom.
+- Sim.
+
+13
+00:00:36,216 --> 00:00:37,774
+Sobre o que é a exibição?
+
+14
+00:00:37,984 --> 00:00:40,612
+Sobre fotos de cenas...
+
+15
+00:00:40,821 --> 00:00:45,781
+de amor entre lésbicas com sessões
+de videogame e sanduíches de graça.
+
+16
+00:00:49,496 --> 00:00:50,758
+Legal!
+
+17
+00:00:54,935 --> 00:00:56,698
+- Oi.
+- Oi.
+
+18
+00:00:56,903 --> 00:00:57,995
+Ross, escute essa.
+
+19
+00:00:58,205 --> 00:01:02,335
+Chandler tesourou a gente
+no lance do museu das lésbicas.
+
+20
+00:01:03,777 --> 00:01:08,840
+Obrigado, mas tenho outros planos.
+Elizabeth e eu vamos viajar.
+
+21
+00:01:09,049 --> 00:01:10,380
+- Que legal.
+- Sim.
+
+22
+00:01:10,550 --> 00:01:12,814
+Imagine a grana que vai ganhar!
+
+23
+00:01:13,053 --> 00:01:14,020
+Por quê?
+
+24
+00:01:14,254 --> 00:01:17,155
+O pai dela não paga
+para você ser babá dela?
+
+25
+00:01:18,658 --> 00:01:21,491
+Engraçado, mas eu acho
+que está na hora de avançar.
+
+26
+00:01:21,695 --> 00:01:23,663
+Tipo uma mão-boba.
+
+27
+00:01:24,231 --> 00:01:26,791
+Rachel tá namorando o pai dela.
+
+28
+00:01:27,000 --> 00:01:29,901
+Ele é mais velho que ela.
+
+29
+00:01:30,303 --> 00:01:34,399
+Parece que não sou o único
+que tem interesse por fósseis.
+
+30
+00:01:35,976 --> 00:01:39,810
+Isso só nos lembra
+que você gosta de fósseis.
+
+31
+00:01:41,548 --> 00:01:42,776
+Tudo bem, tudo bem.
+
+32
+00:01:42,983 --> 00:01:47,977
+Rachel terá que gritar
+as músicas na orelha dele.
+
+33
+00:01:52,292 --> 00:01:54,726
+- Ross?
+- Qual é? Foi engraçado.
+
+34
+00:01:54,928 --> 00:01:57,624
+Ele tem problema de audição.
+
+35
+00:01:59,199 --> 00:02:01,326
+Porque é um velho.
+
+36
+00:02:08,708 --> 00:02:10,733
+Espere.
+
+37
+00:02:11,611 --> 00:02:13,238
+Tudo bem, olhe, Ross.
+
+38
+00:02:14,548 --> 00:02:17,039
+Lizzy gosta muito de você...
+
+39
+00:02:17,217 --> 00:02:19,617
+então decidi aceitar
+que estão namorando.
+
+40
+00:02:19,853 --> 00:02:21,445
+Sério? Que ótimo!
+
+41
+00:02:21,922 --> 00:02:23,890
+Depois mudei de idéia.
+
+42
+00:02:24,491 --> 00:02:26,823
+Engraçado.
+
+43
+00:02:27,494 --> 00:02:29,359
+Então, contei a Lizzy,
+e agora a você.
+
+44
+00:02:29,563 --> 00:02:32,031
+Não quero que veja
+minha filha nunca mais.
+
+45
+00:02:32,232 --> 00:02:34,530
+Sei que isso te aborrece.
+
+46
+00:02:34,734 --> 00:02:36,463
+Aborrece mesmo.
+
+47
+00:02:38,038 --> 00:02:41,098
+Elizabeth e eu somos adultos.
+
+48
+00:02:41,308 --> 00:02:45,142
+Acho que não pode
+fazer nada.
+
+49
+00:02:45,312 --> 00:02:48,179
+Ligo para a universidade,
+falo do namoro e te despeço.
+
+50
+00:02:48,415 --> 00:02:50,610
+Um homem prevenido!
+
+51
+00:02:53,653 --> 00:02:55,780
+Aquele em que Paul É o Cara
+
+52
+00:02:55,781 --> 00:03:00,781
+Resync psychd: gcj1982
+
+53
+00:03:32,491 --> 00:03:36,193
+Que demais, vai ter a sua foto
+de volta na parede da fama.
+
+54
+00:03:36,597 --> 00:03:38,929
+Era muito legal,
+quando estava antes.
+
+55
+00:03:39,100 --> 00:03:42,558
+Jim Belushi e eu rindo
+de alguma coisa.
+
+56
+00:03:42,937 --> 00:03:46,236
+Saí do "Days Of Our Lives"
+e me tiraram.
+
+57
+00:03:46,440 --> 00:03:48,908
+Agora ele está rindo de mim.
+
+58
+00:03:49,110 --> 00:03:52,978
+Olhe para ele. Esse folgado idiota.
+
+59
+00:03:54,448 --> 00:03:57,474
+Talvez quando for colocar
+sua foto de volta...
+
+60
+00:03:57,685 --> 00:03:59,585
+podiam pôr ao lado do Matt Lauer.
+
+61
+00:03:59,754 --> 00:04:02,120
+Olhe, está sorrindo para mim.
+
+62
+00:04:04,158 --> 00:04:06,991
+Eu sei, seríamos ótimos juntos.
+
+63
+00:04:10,831 --> 00:04:13,698
+- Estou de volta!
+- Quem é você?
+
+64
+00:04:15,803 --> 00:04:17,134
+Joey Tribbiani.
+
+65
+00:04:17,671 --> 00:04:19,002
+Da parede?
+
+66
+00:04:19,673 --> 00:04:22,642
+Talvez isso refresque sua memória.
+
+67
+00:04:26,714 --> 00:04:27,703
+Tudo bem, de qualquer forma.
+
+68
+00:04:27,915 --> 00:04:31,646
+Já posso voltar à parede.
+Sou o astro de um novo programa.
+
+69
+00:04:32,920 --> 00:04:36,117
+- Mostre no guia.
+- Ainda não está no ar.
+
+70
+00:04:36,357 --> 00:04:39,155
+Então, ainda não está na parede.
+
+71
+00:04:40,127 --> 00:04:43,654
+Tá bom, vou te trazer uma fita.
+
+72
+00:04:44,832 --> 00:04:47,767
+Tem alguma roupa
+do Matt Lauer aqui?
+
+73
+00:04:47,968 --> 00:04:51,267
+Alguma que ainda
+não tenha sido lavada?
+
+74
+00:04:53,007 --> 00:04:54,736
+Deus.
+
+75
+00:04:58,579 --> 00:04:59,876
+Adoro museus.
+
+76
+00:05:00,080 --> 00:05:02,310
+- Sugar toda essa cultura.
+- Sim.
+
+77
+00:05:02,516 --> 00:05:05,246
+- Por onde querem começar?
+- Pela lojinha de presentes!
+
+78
+00:05:06,253 --> 00:05:09,279
+- Depois, podemos almoçar.
+- Mas não posso comer muito.
+
+79
+00:05:09,523 --> 00:05:13,823
+Paul vai me levar para jantar. Disse
+que planejou uma grande surpresa.
+
+80
+00:05:14,128 --> 00:05:17,291
+Será que vai contar que é gay?
+
+81
+00:05:18,566 --> 00:05:19,897
+Não, por quê?
+
+82
+00:05:20,100 --> 00:05:23,763
+Por nada,
+mas seria uma bela surpresa.
+
+83
+00:05:24,638 --> 00:05:28,039
+Pode fazer a passagem aqui,
+depois a cerimônia ali.
+
+84
+00:05:28,242 --> 00:05:30,210
+Não sabia que podia casar aqui.
+
+85
+00:05:30,411 --> 00:05:32,709
+Seria um lugar maravilhoso
+para se casar.
+
+86
+00:05:32,880 --> 00:05:36,475
+Não faria a passagem ali
+e jamais faria a cerimônia ali.
+
+87
+00:05:36,650 --> 00:05:38,777
+Eu faria a cerimônia embaixo
+deste lindo arco.
+
+88
+00:05:39,286 --> 00:05:40,878
+Posso ajudar?
+
+89
+00:05:41,355 --> 00:05:44,347
+Não queríamos interromper.
+É um lugar lindo!
+
+90
+00:05:44,558 --> 00:05:47,026
+- Fazem muitos casamentos?
+- Sim, somos muito famosos.
+
+91
+00:05:47,228 --> 00:05:49,958
+Há espera de 2 anos, lamento.
+
+92
+00:05:50,898 --> 00:05:53,458
+Devia pôr seu nome na lista.
+
+93
+00:05:53,667 --> 00:05:55,396
+O quê? Você ficou louca?
+
+94
+00:05:55,769 --> 00:05:58,533
+Não estou pensando em casar.
+Nem sou noiva ainda.
+
+95
+00:05:58,906 --> 00:06:02,034
+Mas a espera é de 2 anos.
+E se ficar noiva daqui 2 anos?
+
+96
+00:06:02,443 --> 00:06:04,434
+E tiver que esperar mais 2 anos?
+
+97
+00:06:04,645 --> 00:06:07,409
+São 4 anos.
+Chandler não vai esperar tanto.
+
+98
+00:06:07,615 --> 00:06:09,583
+Vai procurar outra pessoa.
+
+99
+00:06:09,783 --> 00:06:12,183
+Alguém que esteja na lista.
+
+100
+00:06:13,387 --> 00:06:15,582
+Mal não vai fazer.
+
+101
+00:06:15,823 --> 00:06:19,520
+Se você não ficar noiva,
+apenas não a use.
+
+102
+00:06:19,727 --> 00:06:22,594
+Não vai fazer mal mesmo,
+se puser meu nome.
+
+103
+00:06:22,997 --> 00:06:24,396
+Eu também vou pôr.
+
+104
+00:06:24,598 --> 00:06:25,587
+Eu também.
+
+105
+00:06:26,233 --> 00:06:30,135
+- Com quem você casaria?
+- Eu não tenho ninguém agora!
+
+106
+00:06:30,337 --> 00:06:31,395
+Oh, Pheebs.
+
+107
+00:06:32,039 --> 00:06:36,066
+Não sinta pena de mim.
+O meu namorado não é gay.
+
+108
+00:06:37,378 --> 00:06:38,743
+Não foi isso...
+
+109
+00:06:38,946 --> 00:06:41,847
+Nem vou falar do seu.
+
+110
+00:06:44,251 --> 00:06:47,220
+- Viu a fita do meu programa?
+- Vi sim!
+
+111
+00:06:47,421 --> 00:06:51,152
+- Ponha-me de volta na parede.
+- Não vou pôr.
+
+112
+00:06:52,426 --> 00:06:57,523
+- Você viu o programa.
+- É ofensivo para o meu povo.
+
+113
+00:06:58,966 --> 00:07:01,127
+Lavadores de roupa?
+
+114
+00:07:02,736 --> 00:07:06,103
+Russos. Nos mostraram
+como terroristas e vilões.
+
+115
+00:07:06,307 --> 00:07:09,708
+Veja, você tem Harrison Ford aqui.
+
+116
+00:07:09,910 --> 00:07:12,208
+É um ótimo cliente.
+
+117
+00:07:12,413 --> 00:07:14,677
+Ele traz muitas roupas.
+Você não traz nada.
+
+118
+00:07:15,082 --> 00:07:16,447
+Isso até que é verdade.
+
+119
+00:07:16,650 --> 00:07:20,848
+Em "Força Aérea Um"
+os russos eram terroristas.
+
+120
+00:07:21,088 --> 00:07:24,524
+E ele mata um monte deles,
+isso sim é ofensivo aos russos.
+
+121
+00:07:24,725 --> 00:07:28,286
+- Não vi esse filme.
+- Deveria. É ótimo.
+
+122
+00:07:33,567 --> 00:07:36,127
+Este lugar é maravilhoso.
+
+123
+00:07:36,337 --> 00:07:40,239
+Venho aqui desde criança.
+Era da minha avó.
+
+124
+00:07:40,441 --> 00:07:43,672
+A única coisa que tenho
+da minha avó são os olhos.
+
+125
+00:07:44,144 --> 00:07:46,772
+Não os olhos literalmente,
+
+126
+00:07:46,981 --> 00:07:49,814
+mas dizem que os meus olhos...
+
+127
+00:07:50,117 --> 00:07:51,641
+Quer dar uns amassos?
+
+128
+00:07:51,885 --> 00:07:53,375
+Claro!
+
+129
+00:07:57,358 --> 00:07:58,620
+Está tudo bem?
+
+130
+00:07:59,126 --> 00:08:00,286
+O que foi?
+
+131
+00:08:00,494 --> 00:08:03,759
+Estava pensando no seu pai.
+
+132
+00:08:03,964 --> 00:08:05,591
+Se isso te deixa ligado.
+
+133
+00:08:05,799 --> 00:08:07,289
+Não.
+
+134
+00:08:10,304 --> 00:08:14,035
+É que ele me assustou.
+
+135
+00:08:14,241 --> 00:08:17,540
+Vamos ter que esconder
+o namoro de mais uma pessoa.
+
+136
+00:08:17,745 --> 00:08:18,803
+E daí?
+
+137
+00:08:19,013 --> 00:08:21,106
+Além do mais, é gostoso esconder.
+
+138
+00:08:21,615 --> 00:08:22,639
+Claro.
+
+139
+00:08:26,854 --> 00:08:29,345
+- Então?
+- Você trouxe proteção?
+
+140
+00:08:29,590 --> 00:08:32,218
+Por quê? Tem ursos por aqui?
+
+141
+00:08:37,097 --> 00:08:40,624
+Proteção... Eu esqueci.
+
+142
+00:08:42,075 --> 00:08:45,841
+- Vou comprar na farmácia.
+- Eu sou o homem. Eu vou!
+
+143
+00:08:46,045 --> 00:08:48,639
+- Sabe onde fica a farmácia?
+- Não.
+
+144
+00:08:48,848 --> 00:08:52,215
+Quer andar pela cidade
+na minha bicicleta cor-de-rosa?
+
+145
+00:08:52,885 --> 00:08:54,853
+Mais ou menos.
+
+146
+00:08:55,688 --> 00:09:00,421
+Volto em 10 minutos. Entre
+na banheira, eu te encontro lá!
+
+147
+00:09:00,960 --> 00:09:01,927
+Tá certo.
+
+148
+00:09:16,242 --> 00:09:20,269
+Que surpresa legal.
+Que casa mais bonita!
+
+149
+00:09:20,480 --> 00:09:24,075
+Obrigado, era da minha mãe.
+Esta é a cozinha.
+
+150
+00:09:31,402 --> 00:09:33,131
+Aqui é Monica e Chandler.
+
+151
+00:09:33,304 --> 00:09:36,137
+Se estiver escutando isto
+é porque não queremos atender.
+
+152
+00:09:36,340 --> 00:09:37,568
+É verdade.
+
+153
+00:09:39,143 --> 00:09:41,668
+Aqui é a Hildy,
+do museu Morgan-Chase.
+
+154
+00:09:41,879 --> 00:09:45,872
+Estou ligando para Monica Geller.
+Houve um cancelamento.
+
+155
+00:09:46,050 --> 00:09:50,111
+Se ainda estiver interessada
+em fazer o casamento aqui...
+
+156
+00:09:50,354 --> 00:09:51,946
+está disponível...
+
+157
+00:09:52,323 --> 00:09:54,951
+Aqui é o Chandler Bing!
+
+158
+00:09:55,660 --> 00:09:56,854
+Sim, sou o noivo.
+
+159
+00:09:57,061 --> 00:09:58,426
+Não, não sou o noivo.
+
+160
+00:10:04,067 --> 00:10:05,796
+É tão isolado aqui.
+
+161
+00:10:06,569 --> 00:10:09,003
+Eu sei, por isso gosto daqui.
+
+162
+00:10:10,306 --> 00:10:13,298
+Sinto como se fôssemos
+as únicas pessoas no mundo.
+
+163
+00:10:15,245 --> 00:10:16,234
+Desculpe.
+
+164
+00:10:21,651 --> 00:10:23,380
+O que foi, querida?
+
+165
+00:10:23,920 --> 00:10:26,980
+- Você viu um ratinho?
+- Vi um urso enorme lá fora!
+
+166
+00:10:27,190 --> 00:10:28,157
+Eu acho...
+
+167
+00:10:28,391 --> 00:10:33,021
+- Pode dar uma olhada?
+- Não existem ursos por aqui!
+
+168
+00:10:33,229 --> 00:10:34,491
+Tudo bem.
+
+169
+00:10:34,697 --> 00:10:36,631
+Pega uma coca light pra mim?
+
+170
+00:10:37,867 --> 00:10:40,097
+- Tá bom, eu já volto.
+- Certo.
+
+171
+00:10:45,375 --> 00:10:47,843
+- O que está fazendo aqui?
+- O que você está fazendo aqui?
+
+172
+00:10:48,044 --> 00:10:51,104
+- Paul me trouxe.
+- Reconheci os tornozelos.
+
+173
+00:10:54,408 --> 00:10:55,875
+Aqui está, querida.
+
+174
+00:10:57,745 --> 00:10:59,645
+- Obrigada.
+- Uma coca light.
+
+175
+00:11:00,881 --> 00:11:01,905
+Gelo!
+
+176
+00:11:02,516 --> 00:11:04,074
+Preciso de gelo.
+
+177
+00:11:06,020 --> 00:11:07,044
+Tá legal.
+
+178
+00:11:07,555 --> 00:11:08,954
+- Obrigadinha.
+- Já volto.
+
+179
+00:11:09,156 --> 00:11:10,145
+Tá legal.
+
+180
+00:11:11,559 --> 00:11:12,924
+Você e o seu gelo.
+
+181
+00:11:14,695 --> 00:11:17,323
+Saia daí, vamos. Rápido.
+
+182
+00:11:20,334 --> 00:11:22,461
+Aí não. Ele está aí.
+
+183
+00:11:23,738 --> 00:11:25,831
+- Você ouviu mesmo um urso?
+- Anda logo!
+
+184
+00:11:29,443 --> 00:11:30,910
+Aqui está.
+
+185
+00:11:32,546 --> 00:11:34,537
+Uma coca light com gelo.
+
+186
+00:11:36,150 --> 00:11:37,481
+Obrigada.
+
+187
+00:11:37,685 --> 00:11:40,984
+Estou tão feliz que você esteja aqui.
+
+188
+00:11:42,256 --> 00:11:43,917
+- Aqui estou eu!
+- Elizabeth!
+
+189
+00:11:44,425 --> 00:11:46,188
+Elizabeth está aqui.
+
+190
+00:11:48,829 --> 00:11:50,922
+Com quem estava falando?
+
+191
+00:11:51,098 --> 00:11:52,360
+Vocês?
+
+192
+00:11:54,402 --> 00:11:56,461
+Como sabia que estávamos aqui?
+
+193
+00:11:56,704 --> 00:12:01,801
+Ela obviamente viu o rastro
+dos pneus em direção à garagem.
+
+194
+00:12:03,244 --> 00:12:04,438
+Obviamente.
+
+195
+00:12:07,782 --> 00:12:09,511
+O que veio fazer aqui?
+
+196
+00:12:15,956 --> 00:12:19,483
+Você veio fazer aquele trabalho?
+
+197
+00:12:19,794 --> 00:12:20,818
+Sim.
+
+198
+00:12:21,328 --> 00:12:24,388
+Por que não vai fazer
+naquele quarto?
+
+199
+00:12:24,732 --> 00:12:28,099
+Eu não faria lá.
+É o quarto do meu pai.
+
+200
+00:12:30,337 --> 00:12:32,669
+É o quarto do seu pai.
+
+201
+00:12:34,575 --> 00:12:36,406
+É o quarto do pai!
+
+202
+00:12:39,480 --> 00:12:40,674
+Por que está gritando?
+
+203
+00:12:41,115 --> 00:12:43,845
+Acho que a coca light subiu!
+
+204
+00:12:49,423 --> 00:12:51,050
+Olá, querido.
+
+205
+00:12:51,225 --> 00:12:52,419
+Até mais tarde.
+
+206
+00:12:53,594 --> 00:12:56,256
+Comprei comida.
+Eu ia fazer o jantar.
+
+207
+00:12:56,530 --> 00:12:57,861
+Da próxima vez, pergunte.
+
+208
+00:13:01,302 --> 00:13:03,327
+Ou espere que eu pergunte.
+
+209
+00:13:13,914 --> 00:13:16,849
+Aqui é a Hildy,
+do museu Morgan-Chase.
+
+210
+00:13:17,051 --> 00:13:19,952
+- Estou ligando para Monica Geller.
+- Oh, não.
+
+211
+00:13:20,221 --> 00:13:22,917
+Houve um cancelamento.
+
+212
+00:13:23,090 --> 00:13:26,685
+Se ainda estiver interessada
+em fazer o casamento aqui...
+
+213
+00:13:26,894 --> 00:13:28,088
+está disponível...
+
+214
+00:13:28,295 --> 00:13:29,990
+Ele não ouviu!
+
+215
+00:13:30,197 --> 00:13:32,791
+Aqui é o Chandler Bing!
+
+216
+00:13:34,568 --> 00:13:35,626
+Não!
+
+217
+00:13:39,240 --> 00:13:40,571
+Pois não?
+
+218
+00:13:41,141 --> 00:13:44,542
+Cadê o cara que decide
+quais fotos vão pra parede?
+
+219
+00:13:44,745 --> 00:13:47,737
+- Ele não está aqui agora.
+- Tá brincando.
+
+220
+00:13:47,948 --> 00:13:52,146
+Diga que Joey Tribbiani
+passou e deixou essas roupas.
+
+221
+00:13:52,353 --> 00:13:55,151
+Sou ator e estou tentando
+pendurar minha foto de volta.
+
+222
+00:13:55,623 --> 00:13:59,150
+Existem duas pessoas
+que podem pendurar sua foto.
+
+223
+00:14:00,060 --> 00:14:01,186
+Verdade?
+
+224
+00:14:02,563 --> 00:14:06,260
+Podemos ir tomar uns drinques!
+
+225
+00:14:06,734 --> 00:14:08,531
+Você é a outra pessoa, certo?
+
+226
+00:14:12,039 --> 00:14:14,303
+Vai passar a noite aqui?
+
+227
+00:14:14,675 --> 00:14:18,076
+Não, vou embora
+o mais cedo possível.
+
+228
+00:14:19,046 --> 00:14:23,176
+Que bom. Não que a gente não queira
+que você fique.
+
+229
+00:14:23,384 --> 00:14:25,511
+Quanto trabalho
+ainda tem pra fazer?
+
+230
+00:14:26,687 --> 00:14:30,316
+Só tenho um problema,
+que não sei como resolver.
+
+231
+00:14:30,524 --> 00:14:33,857
+Rachel, quer subir e me ajudar?
+
+232
+00:14:34,361 --> 00:14:35,385
+Sério?
+
+233
+00:14:36,130 --> 00:14:37,188
+Tá certo.
+
+234
+00:14:37,731 --> 00:14:39,528
+Tá bom, vou subir...
+
+235
+00:14:40,167 --> 00:14:43,466
+se você me trouxer
+alguma coisa do carro.
+
+236
+00:14:43,704 --> 00:14:45,672
+O que você quer do carro?
+
+237
+00:14:45,940 --> 00:14:47,407
+Me surpreenda!
+
+238
+00:14:49,910 --> 00:14:50,877
+Tá legal.
+
+239
+00:14:51,879 --> 00:14:55,110
+Você vai estar no carro,
+eu vou estar lá em cima.
+
+240
+00:14:55,316 --> 00:14:57,409
+É onde todo mundo vai estar.
+
+241
+00:15:21,442 --> 00:15:24,343
+Relaxe, você está indo bem.
+
+242
+00:15:24,745 --> 00:15:26,713
+Ela gosta de você.
+
+243
+00:15:27,014 --> 00:15:29,414
+Acho que ela gosta de você.
+
+244
+00:15:29,750 --> 00:15:33,413
+Sabe por quê?
+Você é um cara limpinho!
+
+245
+00:15:35,856 --> 00:15:37,483
+Você é o homem.
+
+246
+00:15:38,125 --> 00:15:40,184
+Você é o homem!
+
+247
+00:15:44,531 --> 00:15:45,793
+Continua gostoso.
+
+248
+00:15:46,867 --> 00:15:48,198
+Ainda está sexy.
+
+249
+00:15:49,737 --> 00:15:51,466
+Você é uma máquina do amor.
+
+250
+00:16:08,856 --> 00:16:10,187
+Hora do show.
+
+251
+00:16:17,765 --> 00:16:18,754
+- Phoebe?
+- Sim?
+
+252
+00:16:18,966 --> 00:16:20,695
+- Você viu o Chandler?
+- Não. Por quê?
+
+253
+00:16:20,901 --> 00:16:23,699
+A mulher do museu disse
+que houve um cancelamento...
+
+254
+00:16:23,937 --> 00:16:26,997
+e podemos adiantar o casamento,
+e ele ouviu.
+
+255
+00:16:27,307 --> 00:16:29,241
+Eu sei! Será que é ruim?
+
+256
+00:16:29,510 --> 00:16:33,241
+Para um cara normal, é ruim.
+Com Chandler... Deus do céu!
+
+257
+00:16:35,049 --> 00:16:38,212
+Ele ficou possesso.
+Não consigo achá-lo.
+
+258
+00:16:38,419 --> 00:16:41,582
+- O que você vai fazer?
+- Nunca mais vou te escutar!
+
+259
+00:16:41,789 --> 00:16:44,622
+"Que mal pode fazer
+se colocar o seu nome?"
+
+260
+00:16:45,926 --> 00:16:48,690
+- Rachel disse isso.
+- Mas ela não está aqui.
+
+261
+00:16:56,152 --> 00:16:57,585
+Aqui está!
+
+262
+00:16:58,421 --> 00:17:00,821
+Por que assinou "filho da mãe"?
+
+263
+00:17:03,960 --> 00:17:07,396
+- Não fiz isso! Quem faria isso?
+- Filho da mãe!
+
+264
+00:17:07,830 --> 00:17:09,821
+Pergunte a esse cara.
+
+265
+00:17:10,366 --> 00:17:13,494
+- Saia da minha lavanderia!
+- O que ele fez?
+
+266
+00:17:13,736 --> 00:17:15,829
+- Saiu com minha mulher!
+- Joey!
+
+267
+00:17:17,840 --> 00:17:20,365
+Eu não saí com sua mulher.
+
+268
+00:17:20,777 --> 00:17:22,176
+Eu saí com ela.
+
+269
+00:17:22,412 --> 00:17:24,312
+Esta é minha mulher.
+
+270
+00:17:24,557 --> 00:17:25,615
+Saia!
+
+271
+00:17:28,794 --> 00:17:30,694
+- Vamos embora.
+- Sim.
+
+272
+00:17:33,065 --> 00:17:34,089
+Ross?
+
+273
+00:17:38,370 --> 00:17:39,598
+Elizabeth!
+
+274
+00:17:43,676 --> 00:17:47,112
+Vou sair por essa janela.
+
+275
+00:17:47,480 --> 00:17:50,938
+Eu te encontro na frente.
+Diga a eles que vai para casa.
+
+276
+00:17:51,150 --> 00:17:53,550
+- Tá legal.
+- Espere, não entre aí.
+
+277
+00:17:54,019 --> 00:17:56,544
+Eu quero outra coca.
+
+278
+00:17:57,790 --> 00:17:58,814
+Ross?
+
+279
+00:18:00,826 --> 00:18:04,284
+O que está fazendo aqui?
+
+280
+00:18:07,199 --> 00:18:10,657
+Por isso não podemos nos ver,
+nunca mais.
+
+281
+00:18:13,672 --> 00:18:17,267
+Vamos ter uma conversinha.
+
+282
+00:18:17,510 --> 00:18:18,704
+- Pai, eu...
+- Você é a próxima.
+
+283
+00:18:18,911 --> 00:18:20,879
+Não sabia que ele estava aqui.
+
+284
+00:18:24,216 --> 00:18:26,047
+Vamos ver se entendi.
+
+285
+00:18:26,252 --> 00:18:29,551
+Falei para ficar longe dela,
+senão seria demitido.
+
+286
+00:18:29,755 --> 00:18:32,121
+Mas você ouviu:
+"Pegue a minha filha...
+
+287
+00:18:32,291 --> 00:18:35,226
+vá para a casa de campo
+e estrague meu fim de semana.
+
+288
+00:18:35,594 --> 00:18:40,224
+- Eu posso explicar.
+- Deixe que eu explico. Demitido!
+
+289
+00:18:41,700 --> 00:18:44,362
+Tudo bem, me demita.
+
+290
+00:18:46,372 --> 00:18:48,465
+Mas quero que você saiba...
+
+291
+00:18:49,174 --> 00:18:53,736
+que não somos tão diferentes.
+
+292
+00:18:53,979 --> 00:18:56,675
+Eu também sou um cara limpinho.
+
+293
+00:19:06,292 --> 00:19:07,384
+Como é?
+
+294
+00:19:09,595 --> 00:19:11,119
+E eu também...
+
+295
+00:19:11,697 --> 00:19:13,892
+sou uma "máquina do amor".
+
+296
+00:19:37,756 --> 00:19:40,657
+- Vou te mostrar o quarto de hóspedes.
+- Tudo bem.
+
+297
+00:19:51,704 --> 00:19:54,639
+Desculpe, não fique nervoso.
+
+298
+00:19:55,641 --> 00:19:57,165
+Não estou nervoso.
+
+299
+00:19:59,545 --> 00:20:03,208
+Por que estaria nervoso? Uma estranha
+ligou e falou que íamos casar.
+
+300
+00:20:03,415 --> 00:20:05,212
+Mas isso acontece todo dia.
+
+301
+00:20:08,854 --> 00:20:11,448
+O lugar é maravilhoso.
+
+302
+00:20:11,657 --> 00:20:13,716
+Só reservei de brincadeira.
+
+303
+00:20:13,926 --> 00:20:16,690
+- Onde está o problema?
+- Bem aqui!
+
+304
+00:20:19,264 --> 00:20:21,892
+Não pense que quero te pressionar.
+
+305
+00:20:22,101 --> 00:20:24,399
+- Phoebe e Rachel acharam...
+- Phoebe e Rachel?
+
+306
+00:20:24,637 --> 00:20:28,004
+As pessoas que sabiam do casamento
+antes de mim eram vocês,
+
+307
+00:20:28,207 --> 00:20:32,803
+Phoebe e Rachel, Hildy e uma banda
+chamada "The Starlight Magic Seven"...
+
+308
+00:20:33,012 --> 00:20:35,139
+que está disponível, por sinal.
+
+309
+00:20:37,216 --> 00:20:38,649
+Foi um erro.
+
+310
+00:20:38,917 --> 00:20:42,478
+Por favor, não pense que era
+pra valer, porque não era.
+
+311
+00:20:45,257 --> 00:20:46,349
+Tá legal.
+
+312
+00:20:47,259 --> 00:20:48,351
+Sério?
+
+313
+00:20:49,395 --> 00:20:52,990
+Você sabe que não estou pronto.
+
+314
+00:20:53,198 --> 00:20:54,187
+Eu sei.
+
+315
+00:20:54,667 --> 00:20:55,759
+Eu sei.
+
+316
+00:20:56,635 --> 00:20:57,659
+Tudo bem.
+
+317
+00:20:58,604 --> 00:20:59,662
+Está bem.
+
+318
+00:20:59,905 --> 00:21:02,533
+Vou contar que você apareceu.
+
+319
+00:21:03,075 --> 00:21:05,543
+Joey estava preocupado com você.
+
+320
+00:21:10,694 --> 00:21:12,286
+Ela acreditou?
+
+321
+00:21:12,896 --> 00:21:13,920
+Acreditou!
+
+322
+00:21:14,131 --> 00:21:17,362
+- Hildy te mostrou o lugar?
+- É lindo!
+
+323
+00:21:18,969 --> 00:21:21,597
+Não acredito que vai pedir
+Monica em casamento.
+
+324
+00:21:21,805 --> 00:21:22,863
+Eu sei.
+
+325
+00:21:33,920 --> 00:21:36,445
+- Ei, Gunther.
+- Cappuccinos para a mesa 11.
+
+326
+00:21:36,656 --> 00:21:39,250
+E aquele cara lá quer um whisky.
+
+327
+00:21:39,759 --> 00:21:42,853
+Só vim tomar um café.
+
+328
+00:21:44,564 --> 00:21:46,259
+Você ainda trabalha aqui?
+
+329
+00:21:47,600 --> 00:21:50,194
+Não, saí faz um tempão.
+
+330
+00:21:51,037 --> 00:21:53,562
+Esqueci de falar? Desculpe.
+
+331
+00:21:54,106 --> 00:21:56,700
+- Eu ia te demitir mesmo.
+- Legal!
+

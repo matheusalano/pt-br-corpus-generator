@@ -1,0 +1,5 @@
+#!/bin/bash
+
+PATH=/Users/matheusalano/Downloads/google-cloud-sdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/matheusalano/Flutter/flutter/bin
+export GOOGLE_APPLICATION_CREDENTIALS="/Users/matheusalano/PUCRS/pt-br-corpus-generator/Bilingual-Chatbot-60886f33f229.json"
+gcloud auth application-default print-access-token
